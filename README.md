@@ -20,4 +20,4 @@ create table usuarios
 constraint usuarios_pk primary key (username));
 ```
 
-Recueda que las contraseñas deben estar encriptadas, utilza (esta herramienta)[https://www.browserling.com/tools/bcrypt].
+Recueda que las contraseñas deben estar encriptadas, utilza [esta herramienta](https://www.browserling.com/tools/bcrypt).
